@@ -1,32 +1,33 @@
 # 👋 Hi, I'm Dipanshu Sapra
 
-🎯 **Business Analyst | MBA in Business Analytics | Data-Driven Problem Solver**
+🎯 **Business Analyst | SQL • Power BI • Python | Turning Data into Business Decisions| MBA in Business Analytics**
 
 ---
 
 ## 👨‍💼 About Me
 
 I'm a **Business Analyst at CPM India**, with an MBA specialization in **Business and Data Analytics**.
-Passionate about transforming raw data into meaningful insights, I enjoy solving real-world business problems through data storytelling and visualizations.
+Business Analyst at CPM India, specializing in transforming retail and sales data into actionable insights. Experienced in working with large datasets, building dashboards, and applying geospatial and clustering techniques (Haversine, Uber H3) to solve real-world business problems.
 
-Previously, I worked as an Analyst Intern at **Fortis Hospital, Noida**, where I supported decision-making using data-driven insights, and my experience also includes **virtual internships**
+Previously, I worked as an Analyst Intern at **Fortis Hospital, Noida**, where I supported decision-making using data-driven insights, and my experience also includes **virtual internship** from **Forage: KPMG**
 
 ---
 
 ## 🧠 Currently Working On:
-- Polishing my skills in **Power BI**, **SQL**, and **Python**
-- Building more interactive dashboards for sales and operations use cases
-- Practicing SQL queries on real-world datasets
-- Exploring predictive analytics and forecasting models
+- Writing advanced SQL queries using CTEs, window functions, and optimization techniques
+- Building end-to-end Power BI dashboards with business KPIs
+- Experimenting with clustering and geospatial analytics
+- Exploring predictive modeling (regression, forecasting) in Python
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 📊 Power BI (DAX, Data Modeling, Visualization)
-- 🐍 Python (Pandas,Numpy, Matplotlib, Seaborn)
-- 🧮 SQL (Joins, Window Functions, Aggregates)
-- 📗 Microsoft Excel (Formulas, Pivot Tables, Dashboards)
+- 📊 Power BI (DAX, Data Modeling, KPI Dashboards, Drill-throughs)
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, basic ML models)
+- 🧮 SQL (Joins, Window Functions, CTEs, Query Optimization)
+- 🌍 Geospatial Tools (Haversine, Uber H3)
+- 📗 Excel (Advanced Formulas, Pivot Tables, Dashboarding)
 
 ---
 
@@ -41,7 +42,6 @@ Previously, I worked as an Analyst Intern at **Fortis Hospital, Noida**, where I
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn]( https://www.linkedin.com/in/dipanshu-sapra-3281b0212)  
-- 🌐 Portfolio coming soon...
 
 ---
 
