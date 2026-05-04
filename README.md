@@ -33,7 +33,6 @@ Previously, I worked as an Analyst Intern at **Fortis Hospital, Noida**, where I
 
 ## 📚 Learning Goals
 
-- Advanced SQL: Subqueries, CTEs, performance tuning  
 - Power BI: Optimizing reports, DAX measures, and advanced interactions  
 - Python: Building predictive models, automation scripts, and using dashboards (e.g., Streamlit)
 
